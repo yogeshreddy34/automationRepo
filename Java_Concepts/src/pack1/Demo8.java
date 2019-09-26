@@ -5,6 +5,7 @@ public class Demo8 {
 	// method chaining concept
 	// m1 is static and m2 is non static
 	public static void m1() {
+		System.out.println("hi");
 		System.out.println("first");
 	}
 

@@ -4,7 +4,7 @@ public class Demo1 {//open bracket
 
 	//myName is method name-->and user defined name
 	public void myCalculation() {
-		System.out.println("Hi Java");
+		System.out.println("Hi Java...");
 		//type syso-->ctrl+space bar-->then enter
 		//System.out.println();//single line delete-->ctrl+d
 		System.out.println(63763763+877665);
